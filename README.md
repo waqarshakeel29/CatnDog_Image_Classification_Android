@@ -1,3 +1,5 @@
 # CatnDog_Image_Classification_Android
 
-<img src="https://github.com/waqarshakeel29/SpySoundRecorder/blob/master/full-google-play-store-feature-graphic-games-1024x615.png" alt="alt text">
+<img src="https://github.com/waqarshakeel29/CatnDog_Image_Classification_Android/blob/master/Screenshot_20210121-212146_Cat_and_Dog.png" alt="alt text">
+<img src="https://github.com/waqarshakeel29/CatnDog_Image_Classification_Android/blob/master/Screenshot_20210121-212155_Cat_and_Dog.png" alt="alt text">
+<img src="https://github.com/waqarshakeel29/CatnDog_Image_Classification_Android/blob/master/Screenshot_20210121-212215_Cat_and_Dog.png" alt="alt text">
